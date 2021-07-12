@@ -165,8 +165,8 @@ grid-template-columns: repeat(3, 1fr);
 }
 /*---------------- 
 Media Queries 
-/* ---------------- */
-/*@media only screen and (max-width:688px) {
+ ---------------- */
+@media only screen and (max-width:688px) {
     .container{
         width: 100%;
     }
@@ -181,4 +181,4 @@ Media Queries
     .players, .blogs, .courses{
         grid-template-columns: repeat(2, 1fr);
 }
-} */
+}
